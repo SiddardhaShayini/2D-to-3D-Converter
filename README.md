@@ -2,6 +2,13 @@
 
 This application converts photos or text prompts into downloadable 3D models using open-source AI/ML libraries.
 
+## 🌐 Live Demo
+
+Check out the live app here:  
+[🚀 Launch the Digital Literacy Companion](https://2d-to-3d-converter.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://2d-to-3d-converter.streamlit.app/)
+
 ## Features
 
 - Accept input from users in two forms: image upload (.jpg/.png) or text prompt
